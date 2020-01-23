@@ -1,0 +1,5 @@
+= Berry's Diary
+Marine Berry <b3rry.m@gmail.com>
+:ada: Ada Tech School  
+
+Bienvenue dans mon journal made in {ada} :)
