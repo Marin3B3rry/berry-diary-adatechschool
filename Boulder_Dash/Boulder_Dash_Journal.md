@@ -22,7 +22,7 @@ Proposition 📜
 Mon introspection 🔮
 - J'ai remarqué qu'en réfléchissant avec Adriel, partir du code permettait de mieux formuler la feature. Je pense qu'en apparence c'est "plaisant", MAIS dans les faits ça peut être risqué car le jeu est destiné à l'utilisateur et pas au dev'...D'où les phases d'itération plus tard sans doute... 
 - J'ai aussi l'impression d'avoir beaucoup sollicité mon cerveau pour très peu de features.
-- Je pense que la maîtrise du vocabulaire technique est INDISPENSABLE pour se comprendre mutuellement :slight_smile:  
+- Je pense que la maîtrise du vocabulaire technique est INDISPENSABLE pour se comprendre mutuellement :)   
 
 
 
